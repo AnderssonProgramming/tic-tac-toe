@@ -40,6 +40,8 @@ The game provides:
 - A list of moves that allows players to review and jump to any point in the game
 - Automatic winner detection with all possible winning combinations
 
+![alt text](assets/image.png)
+
 ## 🚀 Installation
 
 ### Prerequisites
